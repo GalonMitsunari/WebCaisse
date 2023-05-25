@@ -19,3 +19,4 @@ public class ConnectDB {
         return connection;
     }
 }
+//permet de faire du CRUD (DAO)
