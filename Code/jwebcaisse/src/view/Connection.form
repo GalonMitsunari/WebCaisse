@@ -97,7 +97,7 @@
         </Component>
         <Component class="javax.swing.JButton" name="Connection">
           <Properties>
-            <Property name="text" type="java.lang.String" value="Connection"/>
+            <Property name="text" type="java.lang.String" value="Connexion"/>
           </Properties>
           <Events>
             <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ConnectionActionPerformed"/>

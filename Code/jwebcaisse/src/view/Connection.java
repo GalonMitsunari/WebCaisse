@@ -57,7 +57,7 @@ public class Connection extends javax.swing.JFrame {
 
         MotDePasse.setText("Btssio82300");
 
-        Connection.setText("Connection");
+        Connection.setText("Connexion");
         Connection.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 ConnectionActionPerformed(evt);
@@ -99,7 +99,7 @@ public class Connection extends javax.swing.JFrame {
         );
 
         getContentPane().add(jPanel2);
-        jPanel2.setBounds(260, 140, 163, 190);
+        jPanel2.setBounds(260, 140, 151, 190);
 
         LogoRetour.setIcon(new javax.swing.ImageIcon(getClass().getResource("/ressources/escape_20.png"))); // NOI18N
         LogoRetour.setMaximumSize(new java.awt.Dimension(20, 22));
